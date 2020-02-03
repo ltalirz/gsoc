@@ -6,6 +6,7 @@ Since NumFOCUS is an umbrella organization you will only find links to the ideas
 page of each organization under the NumFocus umbrella at this page.
 
 
+- AiiDA https://github.com/aiidateam/aiida-core/wiki/GSoC-2020-projects
 - ArviZ https://github.com/arviz-devs/arviz/wiki/GSoC-2020-projects
 - Bokeh https://github.com/bokeh/bokeh/wiki/GSOC-2020-Ideas-Page
 - Cantera https://github.com/Cantera/cantera/wiki/GSoC-2020-Ideas
